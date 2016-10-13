@@ -27,9 +27,11 @@ C-x 3       Split window vertically
 
 ```
 C-a         Beginning of line
+C-e         End of line
+ESC-<       go to the beginning of the file
+ESC->       go to the end of the file
 M-m         Move to first non-whitespace character on the line
 M-a         Move to beginning of function
-C-e         End of line
 C-n         Next line (down)
 C-p         Previous line (up)
 C-b         Back (left) one character
@@ -50,6 +52,9 @@ C-d         Kill character
 C-k         kill line
 M-d         Kill word forwards
 M-delete    Kill word backwards
+C-w         Kill region
+M-w         Copy region to kill ring
+M-y         Cycle through kill ring after yanking
 C-y         Yank (paste)
 ```
 
