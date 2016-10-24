@@ -34,6 +34,8 @@ M-m         Move to first non-whitespace character on the line
 M-a         Move to beginning of function
 C-n         Next line (down)
 C-p         Previous line (up)
+C-v         Page down
+M-v         Page up
 C-b         Back (left) one character
 C-f         Forward (right) one character
 M-f         Forward a word
@@ -43,6 +45,7 @@ M-v         Back a page
 C-s         Regex search forwards for text in current buffer and move to it. Press C-s again to move to next match
 C-r         Regex search backwards
 M-g g       Go to line
+C-j         new line at REPL
 ```
 
 ### Emacs key bindings for Edit commands
@@ -52,10 +55,15 @@ C-d         Kill character
 C-k         kill line
 M-d         Kill word forwards
 M-delete    Kill word backwards
-C-w         Kill region
-M-w         Copy region to kill ring
+C-w         Kill region (cut)
+M-w         Copy region to kill ring (copy)
 M-y         Cycle through kill ring after yanking
 C-y         Yank (paste)
+C-o         Insert a blank line after the cursor
+C-x C-o     Delete all but one of many consecutive blank lines
+C-e RET     Insert new line just below current line
+C-shift-backspace Delete current line`
+
 ```
 
 ### Emacs key bindings for Misc commands
@@ -65,9 +73,12 @@ M-x fn-name run commands by name
 M-x package-refresh-contents  to get the latest list
 M-x package-list-packages     to show package
 M-x package-install           to install package
-M-%         Query replace
-C-spc       select region
-M-x replace-string to replace string
+M-%                           Query replace
+C-spc                         select region
+M-x                           replace-string to replace string
+M-;                           Comment and uncomment multiple lines
+C-]                           quit minibuffer while in minibuffer
+command-arrow                 switch buffer
 ```
 
 ### Clojure Buffer Key Bindings
