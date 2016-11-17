@@ -63,6 +63,7 @@ C-o         Insert a blank line after the cursor
 C-x C-o     Delete all but one of many consecutive blank lines
 C-e RET     Insert new line just below current line
 C-shift-backspace Delete current line`
+M-Space     delete white space till next word
 
 ```
 
@@ -79,6 +80,7 @@ M-x                           replace-string to replace string
 M-;                           Comment and uncomment multiple lines
 C-]                           quit minibuffer while in minibuffer
 command-arrow                 switch buffer
+C-l                           positions the current line in the middle of the screen
 ```
 
 ### Clojure Buffer Key Bindings
