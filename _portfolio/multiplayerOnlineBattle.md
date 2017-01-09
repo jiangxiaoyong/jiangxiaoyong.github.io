@@ -13,7 +13,7 @@ gallery:
     image_path: /multiplayerOnlineBattle/gameLobby-idle.png
     alt: "placeholder image 2"
   - url: /multiplayerOnlineBattle/gameLobby-ready.png
-    image_path: /multiplayerOnlineBattle/.png
+    image_path: /multiplayerOnlineBattle/gameLobby-ready.png
     alt: "placeholder image 3"   
   - url: /multiplayerOnlineBattle/gaming.png
     image_path: /multiplayerOnlineBattle/gaming.png
