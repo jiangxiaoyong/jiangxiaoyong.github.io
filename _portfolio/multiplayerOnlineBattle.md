@@ -169,6 +169,8 @@ There are twenty turns per second. The server will broadcasting buffered command
 * [Understanding Transducers](http://elbenshira.com/blog/understanding-transducers/)
 * [core.async examples](https://github.com/halgari/clojure-conj-2013-core.async-examples/blob/master/src/clojure_conj_talk/core.clj)
 * [community-driven documentation site](http://clojure-doc.org/)
+* [Talks by Rich Hickey](https://github.com/matthiasn/talk-transcripts/tree/master/Hickey_Rich)
+* [Rich Hickey talk from InfoQ](https://www.infoq.com/author/Rich-Hickey)
 
 #### clojure server
 
