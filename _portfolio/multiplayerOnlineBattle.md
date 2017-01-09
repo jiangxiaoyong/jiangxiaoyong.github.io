@@ -83,7 +83,7 @@ This online game supporting following features:
 ## Project architecture
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/multiplayerOnlineBattle/jchat/architecture.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/multiplayerOnlineBattle/architecture.png" alt="">
   <figcaption>Architecture overview of whole system</figcaption>
 </figure> 
 
