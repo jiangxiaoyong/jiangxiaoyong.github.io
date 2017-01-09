@@ -162,6 +162,7 @@ There are twenty turns per second. The server will broadcasting buffered command
 
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [Reactive Programming in JavaScript With RxJS](https://dzone.com/refcardz/rxjs-streams)
+* [RxJS example](https://github.com/Reactive-Extensions/RxJS/tree/master/examples)
 
 #### Clojure
 
