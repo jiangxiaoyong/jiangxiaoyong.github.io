@@ -1,32 +1,29 @@
 ---
-title: "Multiplayer Online Battlee"
-excerpt: "Online battle game build by clojure in functional reactive programming"
+title: "Personal Cloud Storage"
+excerpt: "A full stack cloud storage web app using Java, Spring, Hibernate and MySQL"
 header:
   overlay_color: "#333"
   teaser: /personalCloudStorage/welcome.png 
 
 gallery:
-  - url: /multiplayerOnlineBattle/login.png
-    image_path: /multiplayerOnlineBattle/login.png
+  - url: /personalCloudStorage/login.png
+    image_path: /personalCloudStorage/login.png
     alt: "placeholder image 1"
-  - url: /multiplayerOnlineBattle/gameLobby-idle.png
-    image_path: /multiplayerOnlineBattle/gameLobby-idle.png
+  - url: /personalCloudStorage/gameLobby-idle.png
+    image_path: /personalCloudStorage/gameLobby-idle.png
     alt: "placeholder image 2"
-  - url: /multiplayerOnlineBattle/gameLobby-ready.png
-    image_path: /multiplayerOnlineBattle/gameLobby-ready.png
+  - url: /personalCloudStorage/gameLobby-ready.png
+    image_path: /personalCloudStorage/gameLobby-ready.png
     alt: "placeholder image 3"
-  - url: /multiplayerOnlineBattle/gaming.png
-    image_path: /multiplayerOnlineBattle/gaming.png
+  - url: /personalCloudStorage/gaming.png
+    image_path: /personalCloudStorage/gaming.png
     alt: "placeholder image 4"   
    
 tags: 
-  - clojure
-  - clojurescript
-  - functional programming
-  - reactive programming
-  - concurrent programming
-  - FRP
-  - HeroKu
+  - SpringMVC
+  - JAVA
+  - bootstrap
+  - HTML 
 ---
 
 ## Motivation
